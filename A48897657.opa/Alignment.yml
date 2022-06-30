@@ -1,9 +1,9 @@
 segment_sources:
   I4ACC0C26:
-    type: origin_type
+    type: root
     language: bo
-  IC63A70DB:
-    type: origin_type
+  IC63A70DB: commentary
+    type: 
     language: bo
 segment_pairs:
   5cc4033d00b945039a01cef5e36f98a1:
